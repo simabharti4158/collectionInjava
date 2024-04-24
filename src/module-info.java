@@ -1,0 +1,3 @@
+module Colletion {
+	requires DemoProjrct;
+}
